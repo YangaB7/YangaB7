@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yanga
 - 👀 I’m interested in web dev, game design, sorting arrays
 - 🌱 I’m currently learning Java, Js, ReactJs
-- 🎮 I play League, Minecraft, OW2
 - 📫 How to reach me: yangabooker@gmail.com
 
 <!---
