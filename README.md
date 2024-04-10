@@ -1,4 +1,4 @@
-Hi I'm Yanga! I like to code React Native applications and make games using PyGame.
+👋 Hi I'm **Yanga**! I like to code React Native applications and make games using PyGame.
  <br> 
 There is still a lot for me to learn and a long road ahead of me. Excited for it....................
  <br> 
